@@ -2,7 +2,7 @@ package com.krishna.gallery;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
+import java.io.FileOutputStream;  
 import java.io.IOException;
 import java.io.OutputStream;
 import java.text.SimpleDateFormat;
@@ -14,6 +14,7 @@ import android.app.AlertDialog;
 import android.app.ProgressDialog;
 import android.app.WallpaperManager;
 import android.content.Context;
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.Config;
 import android.graphics.BitmapFactory;
@@ -42,7 +43,7 @@ import android.widget.Toast;
 
 public class KrishnaGallery extends Activity {
 
-	Integer[] imageIDs = { R.drawable.picture0, R.drawable.picture1,
+	public Integer[] imageIDs = { R.drawable.picture0, R.drawable.picture1,
 			R.drawable.picture2, R.drawable.picture3, R.drawable.picture4,
 			R.drawable.picture5, R.drawable.picture6, R.drawable.picture7,
 			R.drawable.picture8, R.drawable.picture9, R.drawable.picture10,
@@ -188,6 +189,10 @@ public class KrishnaGallery extends Activity {
 				}
 			}
 			return true;
+			
+		case 2 :
+			startActivity(new Intent(this,SlideShow.class)); 
+				
 			
 		case 3:
 			this.finish();
