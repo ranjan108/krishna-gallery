@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="p0">When Lord Krishna took His birth as the son of Vasudeva and Devaki, He told them that He had appeared in His Vishnu form just to convince them that He was the same Supreme Personality of Godhead.</string>
+    <string name="p2">Mother Yasoda observed a bathing ceremony for Krishna just after he turned three months old. Professional musicians were present and the brahmanas chanted vedic mantras.</string>
+    <string name="p13">Lord Krishna reveals that all of the cowherd boys are actually expansions of Him and cannot be harmed or taken away from Him.</string>
+    <string name="p20">Radharani worships Krishna with pure love and devotion.</string>
+    <string name="p22">Krishna dances with the gopis on a full moon night.</string>
+    <string name="p25">Arjuna was filled with wonder as he looked upon the Universal Form; and he began to pray to Krishna with folded hands</string>
+	
+    <string-array name="array">
+        <item>When Lord Krishna took His birth as the son of Vasudeva and Devaki, He told them that He had appeared in His Vishnu form just to convince them that He was the same Supreme Personality of Godhead.</item>
+        <item>pic1</item>
+        <item>Mother Yasoda observed a bathing ceremony for Krishna just after he turned three months old. Professional musicians were present and the brahmanas chanted vedic mantras.</item>
+        <item>pic3</item>
+        <item>pic5</item>
+        <item>pic6</item>
+        <item>pic7</item>
+        <item>pic8</item>
+        <item>pic9</item>
+        <item>pic10</item>
+        <item>pic11</item>
+        <item>pic12</item>
+        <item>Lord Krishna reveals that all of the cowherd boys are actually expansions of Him and cannot be harmed or taken away from Him.</item>
+        <item>pic14</item>
+        <item>pic15</item>
+        <item>pic16</item>
+        <item>pic17</item>
+        <item>pic18</item>
+        <item>pic19</item>
+        <item>Radharani worships Krishna with pure love and devotion.</item>
+        <item>pic21</item>
+        <item>Krishna dances with the gopis on a full moon night.</item>
+        <item>pic23</item>
+        <item>pic24</item>
+        <item>Arjuna was filled with wonder as he looked upon the Universal Form; and he began to pray to Krishna with folded hands</item>
+        <item>pic26</item>
+    </string-array>
+</resources>

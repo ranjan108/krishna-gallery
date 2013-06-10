@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Krishna Gallery</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_krishna_gallery">Krishna Gallery</string>
+    <string name="slide_show">Slide Show</string>
+    <string name="save">Save Image</string>
+    <string name="wallpaper">Set as Wallpaper</string>
+    <string name="exit">Exit</string>
+    
+
+</resources>
